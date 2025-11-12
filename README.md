@@ -13,7 +13,7 @@ _¿Basketball, Fútbol o Tenis? ¡La IA lo descubre!_
 
 </div>
 
-## 📸 Demo Visual
+## 📸 Demo Visuals
 
 ![Resultados](resultados_entrenamiento.png)
 
@@ -54,5 +54,5 @@ _¿Basketball, Fútbol o Tenis? ¡La IA lo descubre!_
 git clone https://github.com/AlessandroPastor/CNNPASTOR
 cd clasificador-deportes-cnn
 ```
-# CNNPASTOR
 
+# CNNPASTOR
