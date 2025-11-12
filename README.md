@@ -12,7 +12,7 @@
 _¿Basketball, Fútbol o Tenis? ¡La IA lo descubre!_
 
 </div>
-
+python -m venv venv 
 ## 📸 Demo Visuals
 
 ![Resultados](resultados_entrenamiento.png)
